@@ -1,15 +1,7 @@
 ## Table of contents
 
 - <span class="fragment">What is ML?</span>
-    <!-- - <span class="fragment">Minor ML Concepts</span> -->
-    <!-- - <span class="fragment">Classification</span>
-    - <span class="fragment">Clustering</span> -->
-
 - <span class="fragment">NLP Projects</span>
-    <!-- - <span class="fragment">NER</span>
-    - <span class="fragment">Comment Classification</span>
-    - <span class="fragment">Category Prediction</span> -->
-
 - <span class="fragment">Graph Projects</span>
 - <span class="fragment">Applications In Other Fields</span>
 
@@ -17,8 +9,8 @@
 
 ## What is ML
 
-> Machine learning is a subfield of <span class="fragment highlight-current-red">AI</span> that focuses on the development of algorithms and statistical models that enable computer systems to learn and improve their performance on a specific task without being explicitly programmed. <br>
-> In other words, machine learning allows computers to learn from data and make predictions or decisions based on that learning.
+> Machine learning is a subfield of <span class="fragment highlight-red">AI</span> that focuses on the development of algorithms and statistical models that enable computer systems to learn and improve their performance on a specific task without being explicitly programmed. <br>
+> <span class="fragment highlight-current-green">In other words, machine learning allows computers to learn from data and make predictions or decisions based on that learning. </span>
 
 ---
 
@@ -88,7 +80,7 @@
 
 ### General Problem
 
-Understaning the text
+Understanding the text
 
 ---
 
@@ -133,7 +125,8 @@ BERT Model
 
 ### Comment Classification
 
-SAMPLE IMAGE OF FASTAPI
+<img src="/img/comment-swagger.png" width="1200px">
+<img src="/img/result-swagger.png" width="1200px">
 
 ---
 
@@ -161,7 +154,7 @@ BERT Model
 
 ### Category Prediction
 
-SAMPLE IMAGE OF CATEGORY TREE
+<img src="/img/category-tree.png" width="1200px">
 
 ---
 
@@ -199,13 +192,13 @@ Human Annotation
 
 ### NER
 
-SAMPLE IMAGE OF LABEL STUDIO
+<img src="/img/label-studio.png" width="1200px">
 
 ---
 
 ### NER
 
-SAMPLE IMAGE OF PYTHON DASH
+<img src="/img/entity-impression.png" width="1200px">
 
 ---
 
@@ -222,7 +215,7 @@ SAMPLE IMAGE OF PYTHON DASH
 
 #### Problem
 
-Storing data map of a site
+Mapping a site
 
 ---
 
@@ -236,7 +229,7 @@ Graph Data Structure
 
 ### Link Crawler
 
-IMAGE OF EGHONLINE SITE GRAPH
+<img src="/img/link-crawler.png" width="600px">
 
 ---
 
@@ -260,25 +253,19 @@ Split the graph where relations become less dense
 
 #### Solution
 
-ML algorithms for clustering of graph
+ML algorithms for clustering on graph
 
 ---
 
 ### Penguin
 
-IMAGE OF A LARGE GRAPH
+<img src="/img/unclustered.png" width="600px">
 
 ---
 
 ### Penguin
 
-IMAGE OF A CLUSTERED GRAPH
-
----
-
-### Penguin
-
-IMAGE OF UI
+<img src="/img/clustered.png" width="600px">
 
 ---
 
@@ -293,3 +280,19 @@ IMAGE OF UI
 ### Diffusions
 
 <img src="/img/shirfarhad.jpg"> <br>
+
+---
+
+### Diffusions
+
+<img src="/img/howl-dalle.jpg"> <br>
+
+---
+
+
+## Conclusion
+
+---
+
+# THE END
+
