@@ -260,8 +260,8 @@ tags
 
 
 # Ignore generated image files
-/img/*.png
-/img/*.jpg
+# /img/*.png
+# /img/*.jpg
 
 # Ignore any sensitive or configuration files
 .env
